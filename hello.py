@@ -5,6 +5,3 @@ list1.sort()
 print(list1)
 print('sdsdf')
 
-
-
-print()
