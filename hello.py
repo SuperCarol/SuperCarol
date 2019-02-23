@@ -11,3 +11,4 @@ print()
 print('kadhfksad')
 
 print('tiancai')
+print('tiancai')
